@@ -1,0 +1,10 @@
+{
+  "name": "projeto-slim",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Nada para compilar'"
+  },
+  "devDependencies": {
+    "firebase-tools": "^12.0.0"
+  }
+}
