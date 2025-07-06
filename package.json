@@ -1,5 +1,5 @@
 {
-  "name": "projeto-slim",
+  "name": "imc-slim",
   "version": "1.0.0",
   "scripts": {
     "build": "echo 'Nada para compilar'"
